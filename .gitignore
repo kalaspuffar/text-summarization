@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/albert_xxlarge
+/albert_xxlarge_org
